@@ -22,13 +22,13 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 ---
 🏆 AWS & Professional Certifications:
 
-AWS Certified Solutions Architect – Associate
-AWS Certified Developer – Associate
-AWS Certified Security – Specialty
-AWS Certified Machine Learning – Specialty
-AWS Certified Data Analytics – Specialty
-HashiCorp Terraform Associate
-HashiCorp Vault Associate
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Developer – Associate
+* AWS Certified Security – Specialty
+* AWS Certified Machine Learning – Specialty
+* AWS Certified Data Analytics – Specialty
+* HashiCorp Terraform Associate
+* HashiCorp Vault Associate
 
 ## 🛠 Technologies & Tools
 
