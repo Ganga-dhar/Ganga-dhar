@@ -20,13 +20,22 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 * 🌱 Currently learning MLOps, LLMOps and AI Infrastructure
 
 ---
+🏆 AWS & Professional Certifications:
+
+AWS Certified Solutions Architect – Associate
+AWS Certified Developer – Associate
+AWS Certified Security – Specialty
+AWS Certified Machine Learning – Specialty
+AWS Certified Data Analytics – Specialty
+HashiCorp Terraform Associate
+HashiCorp Vault Associate
 
 ## 🛠 Technologies & Tools
 
 ### Cloud
 
 * AWS
-* Azure
+* Azure (Basic)
 
 ### Infrastructure as Code
 
@@ -56,17 +65,6 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 * Dynatrace
 * Fluent Bit
 
-### Security
-
-* AWS IAM
-* IAM Identity Center
-* Secrets Manager
-* GuardDuty
-* Security Hub
-* AWS Config
-* AWS WAF
-* AWS Organizations
-
 ### Languages
 
 * Bash
@@ -79,6 +77,19 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 * Terraform import
 * Kubernetes Security
 
+## 📝 Recent LinkedIn Articles & Posts
+
+- 🚀 Building Secure Amazon EKS Workload Identity with Terraform: IRSA & Pod Identity
+  - https://www.linkedin.com/pulse/irsa-vs-amazon-eks-pod-identity-how-we-secure-aws-access-mv-2mjvf/
+
+- 🚀 Amazon EKS Security: Traditional IAM Roles vs IRSA (IAM Roles for Service Accounts):
+  - https://www.linkedin.com/feed/update/urn:li:activity:7483521912359342080/
+
+- 🔐 Building Infrastructure Guardrails with Terraform Validations and Postconditions
+  - https://www.linkedin.com/feed/update/urn:li:activity:7483119434224746496/
+
+- 🚀 Understanding Kubernetes Network Policies in Detail
+  - https://www.linkedin.com/feed/update/urn:li:activity:7479775461418651649/
 ---
 
 # 🤝 Connect With Me
