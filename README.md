@@ -16,9 +16,6 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 * 🔐 Cloud Security, IAM, DevSecOps
 * 🚀 CI/CD using GitLab CI, GitHub Actions & Jenkins
 * 📊 Monitoring using Prometheus, Grafana, CloudWatch & Splunk
-* 💡 Passionate about Platform Engineering, Cloud Automation and DevSecOps
-* 🌱 Currently learning MLOps, LLMOps and AI Infrastructure
-
 ---
 🏆 AWS & Professional Certifications:
 
