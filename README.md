@@ -64,15 +64,15 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 
 ### Languages
 
-* Bash
+* Shell Scripting
 * Python
 * YAML
-
 
 # 📚 Currently Learning
 
 * Terraform import
 * Kubernetes Security
+* cert-manager to handle ssl/tls certificates and ACM certificates for ALB
 
 ## 📝 Recent LinkedIn Articles & Posts
 
@@ -97,7 +97,4 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 
 📄 Resume: (https://drive.google.com/file/d/1FRUX8gXtNbOvzejD1dSsWW1_0qSrsMrU/view?usp=drive_link)
 
----
-
-⭐ If you find my repositories useful, consider giving them a Star!
 
