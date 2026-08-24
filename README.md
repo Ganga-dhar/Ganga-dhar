@@ -95,6 +95,6 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 
 💼 LinkedIn: https://linkedin.com/in/gangamathyam
 
-📄 Resume: (https://drive.google.com/file/d/1FRUX8gXtNbOvzejD1dSsWW1_0qSrsMrU/view?usp=drive_link)
+📄 Resume: (https://drive.google.com/file/d/1fs_Sj1oTzX9-W1OyEaUcc0QS8rTsRNJv/view?usp=drive_link)
 
 
