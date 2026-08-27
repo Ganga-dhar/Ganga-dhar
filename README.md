@@ -61,6 +61,8 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 * Splunk
 * Dynatrace
 * Fluent Bit
+* Grafana/Loki
+* Grafana/Tempo
 
 ### Languages
 
