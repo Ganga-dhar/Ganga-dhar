@@ -70,11 +70,6 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 * Python
 * YAML
 
-# 📚 Currently Learning
-
-* Terraform import
-* Kubernetes Security
-* cert-manager to handle ssl/tls certificates and ACM certificates for ALB
 
 ## 📝 Recent LinkedIn Articles & Posts
 
