@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mathyam Gangadhara
 
-## AWS Cloud Specialist | Senior DevOps Engineer | Terraform | Kubernetes | Cloud Security
+## AWS Cloud Specialist | Senior DevOps Engineer
 
 I am a **Senior DevOps & AWS Cloud Engineer** with **7+ years of experience** designing, automating, and securing cloud infrastructure. I specialize in building scalable AWS platforms, Infrastructure as Code (Terraform), Kubernetes (EKS), CI/CD automation, cloud security, and platform engineering.
 
@@ -49,7 +49,7 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 
 ### CI/CD
 
-* GitHub Actions
+* GitHub Actions - GitHub Advanced Security, CodeQL, Gitleaks, Dependabot, Branch Protection.
 * GitLab CI
 * Jenkins
 
