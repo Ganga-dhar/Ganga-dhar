@@ -15,17 +15,17 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 * ☸ Kubernetes (Amazon EKS), Amazon ECS Fargate & Docker
 * 🔐 Cloud Security, IAM, DevSecOps
 * 🚀 CI/CD using GitLab CI, GitHub Actions & Jenkins
-* 📊 Monitoring using Prometheus, Grafana, CloudWatch & Splunk
+* 📊 Monitoring using Prometheus, Grafana, Dynatrace, CloudWatch & Splunk
 ---
 🏆 AWS & Professional Certifications:
 
-* AWS Certified Solutions Architect – Associate
-* AWS Certified Developer – Associate
-* AWS Certified Security – Specialty
-* AWS Certified Machine Learning – Specialty
-* AWS Certified Data Analytics – Specialty
-* HashiCorp Terraform Associate
-* HashiCorp Vault Associate
+* AWS Certified Solutions Architect – Associate | Badge: https://www.credly.com/badges/281fe974-a9d2-4425-8780-3883fb0a9fba
+* AWS Certified Developer – Associate | Badge: https://www.credly.com/badges/f5b26214-6aac-4087-a8a9-69c2c3596ad8
+* AWS Certified Security – Specialty | Badge: https://www.credly.com/badges/00526c6e-d9cd-424d-98ea-6c707d43ffcc/linked_in_profile
+* AWS Certified Machine Learning – Specialty | Badge: https://www.credly.com/badges/5081ffa5-401e-44e0-ac02-34306917b2f9
+* AWS Certified Data Analytics – Specialty | https://www.credly.com/badges/f228d303-d739-4eaf-8fc1-259e3a196746/linked_in_profile
+* HashiCorp Terraform Associate | Badge: https://www.credly.com/badges/0ea65da9-de48-4124-bfd3-b0b2555f44e7/linked_in_profile
+* HashiCorp Vault Associate | Badge: https://www.credly.com/badges/14957095-1653-488d-a43d-19c45c4cd157
 
 ## 🛠 Technologies & Tools
 
