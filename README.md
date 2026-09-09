@@ -84,6 +84,10 @@ I enjoy solving infrastructure challenges, improving deployment reliability, red
 
 - 🚀 Understanding Kubernetes Network Policies in Detail
   - https://www.linkedin.com/feed/update/urn:li:activity:7479775461418651649/
+ 
+- 🚀 DORA Metrics: Measuring DevOps Performance Beyond CI/CD:
+  - https://www.linkedin.com/pulse/dora-metrics-measuring-devops-performance-beyond-cicd-gangadhara-mv-umcqf/?trackingId=3tnKn7SWS1aSwnO9vOyMlQ%3D%3D
+    
 ---
 
 # 🤝 Connect With Me
