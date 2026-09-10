@@ -146,24 +146,91 @@ I integrate security and quality checks directly into CI/CD so that infrastructu
 
 ---
 
-# 📊 Observability
+# 📊 Observability, Monitoring & Logging
 
+I work across **metrics, logs, traces, APM, dashboards, alerting, and production troubleshooting** using both cloud-native and enterprise observability platforms.
+
+### 📈 Metrics & Dashboards
+
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge\&logo=datadog\&logoColor=white)
 
-* Amazon CloudWatch
-* Prometheus
-* Grafana
-* Splunk
-* Dynatrace
-* Fluent Bit
-* Grafana Loki
-* Grafana Tempo
-* Application monitoring
-* Infrastructure monitoring
-* Alerting & incident response
-* Production troubleshooting
-* Root Cause Analysis
+### 📝 Logging & Log Analytics
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch\&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge\&logo=logstash\&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge\&logo=kibana\&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge\&logo=fluentbit\&logoColor=white)
+
+### 🔍 APM & Distributed Tracing
+
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge\&logo=dynatrace\&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge\&logo=datadog\&logoColor=white)
+![Grafana Tempo](https://img.shields.io/badge/Grafana_Tempo-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge\&logo=opentelemetry\&logoColor=white)
+
+### 🧰 Observability Stack
+
+| Capability        | Tools                                               |
+| ----------------- | --------------------------------------------------- |
+| 📈 Metrics        | CloudWatch, Prometheus, Datadog                     |
+| 📊 Dashboards     | Grafana, Kibana, Datadog                            |
+| 📝 Logs           | Splunk, ELK, CloudWatch Logs                        |
+| 🔎 Log Collection | Fluent Bit                                          |
+| 🔬 APM            | Dynatrace, Datadog                                  |
+| 🔗 Tracing        | Grafana Tempo, OpenTelemetry                        |
+| 🚨 Alerting       | CloudWatch, Prometheus, Grafana, Datadog, Dynatrace |
+| ☸️ Kubernetes     | Prometheus, Grafana, Fluent Bit, Datadog, Dynatrace |
+
+### 🔄 Production Observability Flow
+
+```text
+Applications / Containers / Kubernetes
+                 │
+        ┌────────┴────────┐
+        │                 │
+      Metrics            Logs
+        │                 │
+ Prometheus /          Fluent Bit
+ CloudWatch /              │
+ Datadog                   │
+        │              ┌───┴────┐
+        │              │        │
+        │           Splunk     ELK
+        │              │        │
+        └───────┬──────┴────────┘
+                │
+          Grafana / Kibana
+                │
+        Dashboards & Alerts
+                │
+        Incident Detection
+                │
+              RCA
+                │
+          Faster MTTR 🚀
+```
+
+### 🎯 Key Observability Capabilities
+
+* 📊 Infrastructure & application monitoring
+* 📝 Centralized log management
+* 🔍 APM and transaction monitoring
+* 🔗 Distributed tracing
+* 🚨 Alerting and incident response
+* ☸️ Kubernetes observability
+* 🔎 Production troubleshooting & RCA
+* 📈 Dashboard development
+* 💻 Container and workload monitoring
+* ⚡ Performance and availability monitoring
+* 📉 Capacity and resource analysis
+* 🔄 Correlation of **logs + metrics + traces**
+
+**Tools:**
+`CloudWatch` • `Prometheus` • `Grafana` • `Splunk` • `Dynatrace` • `Datadog` • `ELK` • `Fluent Bit` • `Loki` • `Tempo` • `OpenTelemetry`
 
 ---
 
