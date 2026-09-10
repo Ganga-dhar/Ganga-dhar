@@ -61,28 +61,6 @@ I integrate security and quality checks directly into CI/CD so that infrastructu
 
 I work across **metrics, logs, traces, APM, dashboards, alerting, and production troubleshooting** using both cloud-native and enterprise observability platforms.
 
-### 📈 Metrics & Dashboards
-
-![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge\&logo=datadog\&logoColor=white)
-
-### 📝 Logging & Log Analytics
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch\&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge\&logo=logstash\&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge\&logo=kibana\&logoColor=white)
-![Fluent Bit](https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge\&logo=fluentbit\&logoColor=white)
-
-### 🔍 APM & Distributed Tracing
-
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge\&logo=dynatrace\&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge\&logo=datadog\&logoColor=white)
-![Grafana Tempo](https://img.shields.io/badge/Grafana_Tempo-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge\&logo=opentelemetry\&logoColor=white)
-
 ### 🧰 Observability Stack
 
 | Capability        | Tools                                               |
