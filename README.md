@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mathyam Gangadhara
 
-### AWS Cloud Specialist | Senior DevOps Engineer | Kubernetes | Terraform | DevSecOps
+### AWS Cloud Specialist | Senior Cloud&DevOps Engineer | Kubernetes(EKS) | Terraform | DevSecOps
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ganga-dhar\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)](https://github.com/Ganga-dhar)
 [![GitHub](https://img.shields.io/badge/GitHub-Ganga--dhar-181717?style=for-the-badge\&logo=github)](https://github.com/Ganga-dhar)
