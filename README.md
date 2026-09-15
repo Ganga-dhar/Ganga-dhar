@@ -24,7 +24,6 @@ I enjoy solving complex infrastructure problems, improving deployment reliabilit
 * 🔐 **DevSecOps & Cloud Security**
 * 📊 **Observability & Production Operations**
 * 💰 **Cloud Cost Optimization**
-* 🤖 **AI/LLM-powered DevOps Automation**
 
 ---
 
